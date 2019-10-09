@@ -21,10 +21,8 @@ public class Main {
             System.out.println("Buzz");            
         else 
             System.out.println(number);
-<<<<<<< HEAD
         System.out.println("testing voor git again");
-=======
         System.out.println("testing branching with 2 branches");
->>>>>>> test2
+        System.out.println("testing github");
     }
 }
